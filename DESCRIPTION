@@ -1,0 +1,12 @@
+Package:  StGeorge
+Type: Package
+Title:  St. George's Respiratory Questionnaire (SGRQ)
+Version: 0.1.0
+Author: Ray Puig
+Maintainer: Ray Puig <raypuigf@gmail.com>
+Depends: R (>= 3.2.0), dplyr 
+Description: Disease-specific instrument designed to measure impact on overall health,daily life, and perceived well-being in patients with obstructive airways disease.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
